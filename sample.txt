@@ -1,1 +1,3 @@
 Hello welcome to git
+This is an update.
+Kindly push it to remote repository.
